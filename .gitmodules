@@ -1,0 +1,24 @@
+[submodule "src/conv-c2c"]
+	path = src/conv-c2c
+	url = git@github.com:NAIST-Archlab/conv-c2c.git
+[submodule "src/conv-c2d"]
+	path = src/conv-c2d
+	url = git@github.com:NAIST-Archlab/conv-c2d.git
+[submodule "src/conv-mark"]
+	path = src/conv-mark
+	url = git@github.com:NAIST-Archlab/conv-mark.git
+[submodule "src/csim"]
+	path = src/csim
+	url = git@github.com:NAIST-Archlab/csim.git
+[submodule "doc/emax7"]
+	path = doc/emax7
+	url = git@github.com:NAIST-Archlab/emax7-doc.git
+[submodule "doc/emax6"]
+	path = doc/emax6
+	url = git@github.com:NAIST-Archlab/emax6-doc.git
+[submodule "sample"]
+	path = sample
+	url = git@github.com:NAIST-Archlab/imax-samples.git
+[submodule "fpga/EMAX7-VPK180-IP"]
+	path = fpga/EMAX7-VPK180-IP
+	url = git@github.com:NAIST-Archlab/EMAX7-VPK180-IP.git
